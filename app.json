@@ -1,7 +1,7 @@
 {
       "name": "™°‌ 🫧 🇴 🇽 𝐘 𓃭 🇷 𝐎𝐁𝐎𝐓 ⃟⛦⃕͜༆",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://graph.org/file/79b2347e9834e02510895.jpg",
+      "logo": "https://telegra.ph/file/0518ba8cb1d57819cd113.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/PRADHAN474/managerbot",
+   "repository": "https://github.com/Moonshining6/MoonXManager",
    "stack": "heroku-22",
    "addons": [
       {
@@ -66,7 +66,7 @@
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://graph.org/file/79b2347e9834e02510895.jpg"
+         "value": "https://telegra.ph/file/0518ba8cb1d57819cd113.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
