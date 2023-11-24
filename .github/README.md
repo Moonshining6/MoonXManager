@@ -1,14 +1,14 @@
 [━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「™°‌ 🫧 🇴 🇽 𝐘 𓃭🇨𝐇𝐀𝐓 𝐁𝐎𝐓 ⃟⛦⃕͜༆」──
+    ──「🌸˹𝙈𝙤𝙤𝙣 ✘ 𝙈𝙖𝙣𝙖𝙜𝙚𝙢𝙚𝙣𝙩 ˼ ~🌸」──
 </h2>
 
 <p align="center">
   <img src="https://github.com/AnonymousX1025/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [™°‌ 🫧 🇴 🇽 𝐘 𓃭🇨𝐇𝐀𝐓 𝐁𝐎𝐓 ⃟⛦⃕͜༆](https://t.me/DESISWAGGERHU)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [🌸˹𝙈𝙤𝙤𝙣 ✘ 𝙈𝙖𝙣𝙖𝙜𝙚𝙢𝙚𝙣𝙩 ˼ ~🌸](https://t.me/moon_m_6)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
